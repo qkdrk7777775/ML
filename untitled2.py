@@ -187,4 +187,7 @@ fig.suptitle("Feature importance plot for distribution parameters", fontsize=17)
 sns.barplot(x='importance',y='feature',ax=ax1,data=df_loc, color="skyblue").set_title('loc param')
 sns.barplot(x='importance',y='feature',ax=ax2,data=df_scale, color="skyblue").set_title('scale param')
 
+<<<<<<< HEAD
 #
+=======
+>>>>>>> e42461b8cd24681991427fa644f708b8f5cabcaf
